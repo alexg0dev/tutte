@@ -19,12 +19,12 @@ Requests go to our own model. This repository does not contain the model, our in
 | [`chat-crypto.js`](chat-crypto.js) | Encrypts and decrypts saved chats at rest (AES-256-GCM, key wrapped with Windows DPAPI). |
 | [`redact.js`](redact.js) | Keeps the model's own instructions and internals out of anything shown to you. |
 
-## Open core
+## Why this is public
 
-The Tutte app's data handling is open. The models themselves and the service that runs them are not part of this repository.
+This code is published **for transparency only** — so you can read and verify how Tutte handles your data. It is **not** open-source. You may read it; you may not copy, modify, redistribute, or use it, and it may not be used commercially. The models themselves and the service that runs them are not part of this repository.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+Source-available for verification. All rights reserved — see [LICENSE](LICENSE).
 
 © Prismwell

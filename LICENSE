@@ -1,16 +1,22 @@
-MIT License
+Tutte Source-Available Transparency License
+Copyright (c) 2026 Prismwell. All rights reserved.
 
-Copyright (c) 2026 Prismwell
+This source code is published for ONE purpose only: so that users can read and
+verify how Tutte handles their data. It is made visible for transparency and
+auditing. It is not open-source and grants no rights to use the code.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+You MAY:
+  - View and read this source code.
+  - Reference it to understand or audit how Tutte handles data.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You MAY NOT, without prior written permission from Prismwell:
+  - Copy, reproduce, or republish this code or any part of it.
+  - Modify, adapt, translate, or create derivative works from it.
+  - Distribute, sublicense, sell, or otherwise make it available to others.
+  - Use this code, in whole or in part, in any product or service.
+  - Use it for any commercial purpose.
+
+All rights not expressly granted above are reserved by Prismwell.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
